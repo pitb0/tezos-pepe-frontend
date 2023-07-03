@@ -45,6 +45,12 @@ export const SplashCTA = () => {
             goes to house reserves.
           </span>
         </CTAProductCard>
+        <CTAProductCard href="" target="_blank">
+          <span>🐸 PepeArcade</span>
+          <span>
+            COMING SOON
+          </span>
+        </CTAProductCard>
       </CTAClick>
     </CTA>
   );
